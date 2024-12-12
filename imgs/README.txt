@@ -1,0 +1,1 @@
+Images of the English and Bulgarian alphabet. These are for the final app - to make it look pretty :)
