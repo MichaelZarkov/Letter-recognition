@@ -18,9 +18,9 @@ After training accuracy on the testing sets was:
 - ~ 0.943 - english
 - ~ 0.975 - bulgarian
 
-_Tensorflow_ Python library was used for model creation and training (mainly for its ease of use),
+_TensorFlow_ Python library was used for model creation and training (mainly for its ease of use),
 then the models were converted from _Keras_ to _ONNX_ open source format. _ONNX Runtime_ was used
-for the final demo program (for faster startup and smaller program size compared to Tensorflow).
+for the final demo program (for faster startup and smaller program size compared to TensorFlow).
 
 ### Datasets
 
